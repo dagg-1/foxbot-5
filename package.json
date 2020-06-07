@@ -1,0 +1,19 @@
+{
+  "name": "foxbot5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dagg-1/foxbot-5.git"
+  },
+  "author": "Dagg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dagg-1/foxbot-5/issues"
+  },
+  "homepage": "https://github.com/dagg-1/foxbot-5#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
